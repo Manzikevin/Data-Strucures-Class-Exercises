@@ -4,9 +4,10 @@ using namespace std;
 
 int main() {
     // Initialize the 2D array with 3 rows and 5 columns
-    int arr[3][5] = {
+    int arr[4][5] = {
         {10, 20, 30, 40, 40},
         {60, 90, 30, 45, 46},
+        {90, 13, 12, 15, 46},
         {90, 13, 12, 15, 46}
     };
 
